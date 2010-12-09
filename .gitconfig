@@ -1,0 +1,20 @@
+[user]
+	email = github@kkaefer.com
+	name = Konstantin Käfer
+
+[alias]
+	ci = commit
+	co = checkout
+	br = branch
+	pom = push origin master
+	st = status
+	stat = status
+
+[http]
+  # proxy = http://proxy.jyu.fi:8080
+
+[core]
+	excludesfile = ~/.gitignore
+
+[color]
+	ui = auto
