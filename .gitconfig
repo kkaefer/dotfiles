@@ -10,9 +10,6 @@
 	st = status
 	stat = status
 
-[http]
-  # proxy = http://proxy.jyu.fi:8080
-
 [core]
 	excludesfile = ~/.gitignore
 
